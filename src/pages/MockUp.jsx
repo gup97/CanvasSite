@@ -2,16 +2,14 @@ import React from "react";
 import Header from "component/header/header";
 import Main from "component/main";
 import Footer from "component/footer";
-import Intro from "intro";
-//pages/index.jsx
-const ItemList = () => {
+const MockUp = () => {
   return (
     <>
       <Header />
-      <Intro />
+      <Main />
       <Footer />
     </>
   );
 };
 
-export default ItemList;
+export default MockUp;

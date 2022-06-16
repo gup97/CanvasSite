@@ -52,6 +52,7 @@ const index = () => {
                 Submit
               </button>
             </form>
+            <div className="mt-6"></div>
           </div>
         </div>
       </div>

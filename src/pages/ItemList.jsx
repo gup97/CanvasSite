@@ -8,8 +8,6 @@ const Page = () => {
     <>
       <Header />
       <ItemList />
-      <ItemList />
-      <ItemList />
       <Footer />
     </>
   );

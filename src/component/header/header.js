@@ -31,12 +31,19 @@ const Header = () => {
           </Link>
         </li>
         <li className="flex gap-4 ">
-          <Link to="/">
-            <span className=" text-gray-300  text-sm text">menu2</span>
+          <Link to="/mockup">
+            <span className=" text-gray-300  text-sm text">목업해보기</span>
           </Link>
         </li>
         <li className="flex gap-4 ">
-          <span className=" text-gray-300  text-sm text">menu3</span>
+          <Link to="/com">
+            <span className=" text-gray-300  text-sm text">커뮤니티</span>
+          </Link>
+        </li>
+        <li className="flex gap-4 ">
+          <Link to="/contact">
+            <span className=" text-gray-300  text-sm text">contact</span>
+          </Link>
         </li>
       </ul>
     </header>

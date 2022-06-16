@@ -4,4 +4,5 @@ export const rgbModule = {
   red: "rgba(256,0,0,0.4)",
   blue: "rgba(0,0,256,0.4)",
   black: "rgba(0,0,0,0.7)",
+  yellow: "rgba(255,255,0,0.4)",
 };

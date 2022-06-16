@@ -1,17 +1,15 @@
 import React from "react";
 import Header from "component/header/header";
-import Main from "component/main";
 import Footer from "component/footer";
-import Intro from "intro";
-//pages/index.jsx
-const ItemList = () => {
+import Contact from "component/contact";
+const ContactPage = () => {
   return (
     <>
       <Header />
-      <Intro />
+      <Contact />
       <Footer />
     </>
   );
 };
 
-export default ItemList;
+export default ContactPage;
