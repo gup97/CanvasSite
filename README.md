@@ -1,4 +1,4 @@
-## 멀티미디어 콘텐츠 디자인 교양 수업을 듣는데 홈페이지를 만드는 과제를 받았다..!
+## 교양 수업 중 홈페이지를 만드는 과제를 받았다..!
 ### 그래서 급하게 만든 멋진 홈페이지 [사이트 바로가기](https://gup97.github.io/CanvasSite/)
 
 [![image](https://user-images.githubusercontent.com/80537765/174432346-d70e2024-3543-4643-b47b-56ad556d261d.png)](https://gup97.github.io/CanvasSite/)
