@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CanvasSite/static/css/main.e85f552a.css",
+    "main.js": "/CanvasSite/static/js/main.774608ae.js",
+    "static/media/back.jpg": "/CanvasSite/static/media/back.cb21fc20da5b0363634b.jpg",
+    "static/media/page3.PNG": "/CanvasSite/static/media/page3.848e030e5b33f0d92faf.PNG",
+    "static/media/page1.PNG": "/CanvasSite/static/media/page1.a4255e20e5f1c31c20f5.PNG",
+    "static/media/page2.PNG": "/CanvasSite/static/media/page2.4898ae6351449cfe621b.PNG",
+    "static/media/main.png": "/CanvasSite/static/media/main.d9fda6e6857f3e7841c7.png",
+    "static/media/page4.PNG": "/CanvasSite/static/media/page4.f57355fdb5c780ec7039.PNG",
+    "static/media/body.png": "/CanvasSite/static/media/body.266dcbe9ba81baf2df0e.png",
+    "static/media/cap.png": "/CanvasSite/static/media/cap.9632f942886cf701cd28.png",
+    "static/media/item1.jpg": "/CanvasSite/static/media/item1.a789c0f4e5a44a51b14b.jpg",
+    "static/media/item2.jpg": "/CanvasSite/static/media/item2.6fb22337eb49bc2a8db6.jpg",
+    "index.html": "/CanvasSite/index.html",
+    "main.e85f552a.css.map": "/CanvasSite/static/css/main.e85f552a.css.map",
+    "main.774608ae.js.map": "/CanvasSite/static/js/main.774608ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e85f552a.css",
+    "static/js/main.774608ae.js"
+  ]
+}
